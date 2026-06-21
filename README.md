@@ -47,6 +47,11 @@ Rule-Based-Chatbot/
 
 ├── README.md
 
+└── screenshots/
+
+    ├── output1.png
+
+    └── output2.png
 
 ---
 
